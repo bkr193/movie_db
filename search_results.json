@@ -1,1 +1,76 @@
-{"Search": [{"Title": "Harry Potter and the Deathly Hallows: Part 2", "Year": "2011", "imdbID": "tt1201607", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Sorcerer's Stone", "Year": "2001", "imdbID": "tt0241527", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Chamber of Secrets", "Year": "2002", "imdbID": "tt0295297", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg"}, {"Title": "Harry Potter and the Prisoner of Azkaban", "Year": "2004", "imdbID": "tt0304141", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Goblet of Fire", "Year": "2005", "imdbID": "tt0330373", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Order of the Phoenix", "Year": "2007", "imdbID": "tt0373889", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg"}, {"Title": "Harry Potter and the Deathly Hallows: Part 1", "Year": "2010", "imdbID": "tt0926084", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Half-Blood Prince", "Year": "2009", "imdbID": "tt0417741", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Forbidden Journey", "Year": "2010", "imdbID": "tt1756545", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BNDM0YzMyNGUtMTU1Yy00OTE2LWE5NzYtZDZhMTBmN2RkNjg3XkEyXkFqcGdeQXVyMzU5NjU1MDA@._V1_SX300.jpg"}, {"Title": "Harry Potter and the Escape from Gringotts", "Year": "2014", "imdbID": "tt3731688", "Type": "movie", "Poster": "https://m.media-amazon.com/images/M/MV5BNTJmOTRjMDEtMjg1YS00YzJjLTk5MWYtZmQzMTBiNGQxYzZhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"}], "totalResults": "66", "Response": "True"}
+{
+    "Search": [
+        {
+            "Title": "Supernatural",
+            "Year": "2005–2020",
+            "imdbID": "tt0460681",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTJhM2VhZDItMTk4OS00MTRjLTlmMDQtNzEyYmM0NDA0YjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Supernatural: The Animation",
+            "Year": "2011",
+            "imdbID": "tt1679482",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDljNDlkZjctNDFlZi00ZjNjLTkxNDQtOTI5MzY1MGIzNGQ4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
+        },
+        {
+            "Title": "BuzzFeed Unsolved: Supernatural",
+            "Year": "2016–",
+            "imdbID": "tt6723522",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGY5NTAwMWUtOGJlYS00YmYwLWFlOTMtNzNjZDdlYjBiN2FjXkEyXkFqcGdeQXVyOTc1MTAwNTM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "When Supernatural Battles Became Commonplace",
+            "Year": "2014–",
+            "imdbID": "tt3952100",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDZjZWQzYTUtZjhkMC00OTFjLWI0YjMtZWEwMTZiZGFhNzQ0XkEyXkFqcGdeQXVyNTM2MDEzNTg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "It's Supernatural",
+            "Year": "2007–",
+            "imdbID": "tt1216851",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0YmVlZjItY2JhYy00YmJiLTgyOGUtYzk3YmM3MDcwYjIzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NDk5NjM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Supernatural",
+            "Year": "1977",
+            "imdbID": "tt0396375",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4MjgxMDcwNF5BMl5BanBnXkFtZTgwODY5NTk2NjE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Supernatural Science",
+            "Year": "1999–2001",
+            "imdbID": "tt0475205",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjc5ZTljZWQtYjQ5NS00ODczLTk5MzktNWYwOGU5NjE1N2ZlXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "True Supernatural",
+            "Year": "2014–",
+            "imdbID": "tt3762140",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMDc3MTE4MV5BMl5BanBnXkFtZTgwOTQzNjg5MTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Neuro: Supernatural Detective",
+            "Year": "2007–2008",
+            "imdbID": "tt6565980",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ5MzVjNWEtMTYzNS00YjM4LTlhMGUtZjIyZjI3MWEzYWRiXkEyXkFqcGdeQXVyNjc3NzUwNTg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Supernatural Fandom",
+            "Year": "2015–",
+            "imdbID": "tt4419726",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNjExODE4NF5BMl5BanBnXkFtZTgwMDQ3NTU1NzE@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "21",
+    "Response": "True"
+}

@@ -6,24 +6,30 @@ class api():
     def __init__(self):
         self.apiKey = open('apiKey.json', 'r')
         self.data_URL = 'http://www.omdbapi.com/?apikey={}'.format(self.apiKey.read())
-
-class search_api(api):
-
     
-    def __init__(self):
-        pass
-
-    def search_movie(self, title):
+    def by_search(self, title, prod_type='movie',year=''):
         params = {
             's':title,
-            'type':'movie',
+            'type':prod_type, #type to specify as an argument in method call: movie/series/episode
+            'y': year
         }
         response = requests.get(self.data_URL,params=params).json()
         with open('search_results.json', 'w') as f:
             json.dump(response, f)
 
+    def by_title(self, title, prod_type='movie',year=''):
+        params = {
+            't':title,
+            'type':prod_type, #type to specify as an argument in method call: movie/series/episode
+            'y': year
+        }
+        response = requests.get(self.data_URL,params=params).json()
+        with open('title_results.json', 'w') as f:
+            json.dump(response, f)
+
 if __name__ == '__main__':
 
     a = api()
-    a.search_movie('harry potter')
+    a.by_search('supernatural', 'series')
+    a.by_title('supernatural', 'series')
 
